@@ -1,5 +1,5 @@
 
-# Smart Surveillance System with YOLO v7
+# Smart Surveillance System with YOLO v5
 
 This repository contains the code for a Smart Surveillance System developed using YOLO (You Only Look Once) version 7. The system is designed to monitor surveillance camera feeds in real-time and perform various tasks such as detecting unauthorized persons entering restricted areas, identifying abandoned objects, and recognizing specific actions such as fighting or vandalism and an alarm sound is played and photos of the detected image is saved.
 This tool can be used for security purposes
