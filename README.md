@@ -7,7 +7,7 @@ This tool can be used for security purposes
 
 ## Features
 
-- **Object Detection**: Utilizes YOLO v7 for real-time object detection in surveillance camera feeds.
+- **Object Detection**: Utilizes YOLO v5 for real-time object detection in surveillance camera feeds.
 - **Unauthorized Person Detection**: Detects and alerts when unauthorized persons enter restricted areas.
 - **Abandoned Object Detection**: Identifies and notifies about abandoned objects in the surveillance area.
 - **Action Recognition**: Recognizes specific actions such as fighting or vandalism and triggers appropriate responses.
