@@ -19,7 +19,7 @@ This tool can be used for security purposes
 - PyTorch
 - NumPy
 - Pygame
-- YOLO v7 (pre-trained weights and configuration files)
+- YOLO v5 (pre-trained weights and configuration files)
 
 ## Installation
 
